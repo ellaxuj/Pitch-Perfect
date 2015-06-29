@@ -1,3 +1,4 @@
 # Pitch-Perfect
 
-First project ---- iOS Developer Nanodegree from Udacity
+First project done by Jing Xu
+---- iOS Developer Nanodegree from Udacity
